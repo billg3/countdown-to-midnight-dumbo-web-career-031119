@@ -7,6 +7,6 @@ number = 0
  counter -= 1
 end
 
-puts "HAPPY NEW YEAR!"
+"HAPPY NEW YEAR!"
 
 end 
